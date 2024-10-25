@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1202c9c-ca63-4e1b-866b-13dba1904b4c": {
+      "ProjectGuid": "d1202c9c-ca63-4e1b-866b-13dba1904b4c",
+      "DisplayName": "Zadaca3",
+      "ColorIndex": 0
+    },
+    "e4755f8c-e809-42e1-9af4-e49fc25961c4": {
+      "ProjectGuid": "e4755f8c-e809-42e1-9af4-e49fc25961c4",
+      "DisplayName": "UnitTestZadaca2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

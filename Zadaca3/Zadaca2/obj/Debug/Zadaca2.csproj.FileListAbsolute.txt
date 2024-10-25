@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe.config
+C:\Users\HP\Desktop\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe
+C:\Users\HP\Desktop\Zadaca2\Zadaca2\bin\Debug\Zadaca2.pdb
+C:\Users\HP\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.exe
+C:\Users\HP\Desktop\Zadaca2\Zadaca2\obj\Debug\Zadaca2.pdb
+C:\Users\HP\Desktop\Berin_Masovic_TS_Zadaca3\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe.config
+C:\Users\HP\Desktop\Berin_Masovic_TS_Zadaca3\Zadaca2\Zadaca2\bin\Debug\Zadaca2.exe
+C:\Users\HP\Desktop\Berin_Masovic_TS_Zadaca3\Zadaca2\Zadaca2\bin\Debug\Zadaca2.pdb
+C:\Users\HP\Desktop\Berin_Masovic_TS_Zadaca3\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Berin_Masovic_TS_Zadaca3\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Berin_Masovic_TS_Zadaca3\Zadaca2\Zadaca2\obj\Debug\Zadaca2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Berin_Masovic_TS_Zadaca3\Zadaca2\Zadaca2\obj\Debug\Zadaca2.exe
+C:\Users\HP\Desktop\Berin_Masovic_TS_Zadaca3\Zadaca2\Zadaca2\obj\Debug\Zadaca2.pdb

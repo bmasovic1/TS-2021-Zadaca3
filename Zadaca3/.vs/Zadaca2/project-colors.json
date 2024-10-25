@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1202c9c-ca63-4e1b-866b-13dba1904b4c": {
+      "ProjectGuid": "d1202c9c-ca63-4e1b-866b-13dba1904b4c",
+      "DisplayName": "Zadaca2",
+      "ColorIndex": 0
+    },
+    "e4755f8c-e809-42e1-9af4-e49fc25961c4": {
+      "ProjectGuid": "e4755f8c-e809-42e1-9af4-e49fc25961c4",
+      "DisplayName": "UnitTestZadaca2",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

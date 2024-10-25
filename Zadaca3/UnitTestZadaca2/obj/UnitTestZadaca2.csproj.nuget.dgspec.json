@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Desktop\\Berin_Masovic_TS_Zadaca3\\Zadaca3\\UnitTestZadaca2\\UnitTestZadaca2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Desktop\\Berin_Masovic_TS_Zadaca3\\Zadaca3\\UnitTestZadaca2\\UnitTestZadaca2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Berin_Masovic_TS_Zadaca3\\Zadaca3\\UnitTestZadaca2\\UnitTestZadaca2.csproj",
+        "projectName": "UnitTestZadaca2",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Berin_Masovic_TS_Zadaca3\\Zadaca3\\UnitTestZadaca2\\UnitTestZadaca2.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Berin_Masovic_TS_Zadaca3\\Zadaca3\\UnitTestZadaca2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\Berin_Masovic_TS_Zadaca3\\Zadaca3\\Zadaca2\\Zadaca3.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Berin_Masovic_TS_Zadaca3\\Zadaca3\\Zadaca2\\Zadaca3.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\HP\\Desktop\\Berin_Masovic_TS_Zadaca3\\Zadaca3\\Zadaca2\\Zadaca3.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Berin_Masovic_TS_Zadaca3\\Zadaca3\\Zadaca2\\Zadaca3.csproj",
+        "projectName": "Zadaca3",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Berin_Masovic_TS_Zadaca3\\Zadaca3\\Zadaca2\\Zadaca3.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
