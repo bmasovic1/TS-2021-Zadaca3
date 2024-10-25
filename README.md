@@ -3,8 +3,7 @@
 ## Zadaća 3 
 ### - alati Loadstar, Pingdom i LoadFocus (load ili stress testiranje) 
 ### - refaktoring (McCabe metrika)
-
----
+##
 
 1. Za stranicu slučajno odabranu preko linka http://www.whatsmyip.org/random-website-machine/
 (priložite ekran dobijene stranice sa podacima kada je stranica odabrana, u slučaju dobijanja stranice
